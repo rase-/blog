@@ -71,7 +71,7 @@ export default () => {
         >
           <span css={{ fontWeight: 400 }}>Welcome to the</span> Personal
           Internet Domicile{` `}
-          <span css={{ fontWeight: 400 }}>of Kyle Mathews</span>
+          <span css={{ fontWeight: 400 }}>of Kyle Mathews... nooot</span>
         </h1>
       </div>
       <div
